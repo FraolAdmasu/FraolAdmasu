@@ -9,15 +9,14 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 
 ### 🌿 What I’m Learning:
 - Diving deeper into **Web Development & Database Administration**, **backend development with Python & PHP**.
-- Exploring **AI and machine learning** to integrate intelligent features into applications.
 
 ### 📚 Collaboration:
 - Open to collaborating on impactful open-source projects that make a difference.
 - Looking forward to contributing to **web development communities**, **open-source AI projects**, and **developer education initiatives**.
 
 ### 😇 Ask Me About:
-- **Web development**: HTML, CSS, JavaScript, Figma, Spline, PHP, & Python.
-- **Best practices** for building secure and maintainable software and game software.
+- **Web development**: HTML, CSS,...PHP.
+- **Best practices** for building website and maintainable software and game software.
 - Strategies for **learning new technologies** and staying updated in the tech world.
 
 ### 📧 How to Reach Me:
@@ -26,8 +25,6 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 - **Portfolio**: [FraolAdmasu.dev](https://fraoladmasu.dev)
 
 ### ✨ Fun Fact:
-- When I’m not coding, you can find me exploring **new hiking trails**, playing **strategy games**, or experimenting with **new recipes** in the kitchen.
+- When I’m not coding, you can find me exploring **new hiking trails**, playing **strategy games**, or experimenting with **new recipes**.
 
 ---
-
-Feel free to explore my repositories and connect with me. Let’s create something amazing together!
