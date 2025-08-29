@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 ### 📧 How to Reach Me:
 - **Email**: [FraolAdmasu.fadm94202@gmail.com](mailto:FraolAdmasu.fadm94202@gmail.com)
 - **LinkedIn**: [linkedin.com/in/fraol-admasu](https://www.linkedin.com/in/fraol-admasu)
-- **Portfolio**: [FraolAdmasu.dev](https://fraoladmasu.dev)
+- **Portfolio**: [FraolAdmasu.dev](Ongoing)
 
 ### ✨ Fun Fact:
 - When I’m not coding, you can find me exploring **new hiking trails**, playing **strategy games**, or experimenting with **new recipes**.
