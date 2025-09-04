@@ -1,9 +1,3 @@
-To address your request, I’ll update the "Languages and Tools" section of your GitHub README to include only the programming languages and design tools from the provided list (HTML, CSS, JavaScript, WordPress, React, Tailwind, XAMPP, Microsoft SQL Server, MySQL, PHP, Python, Figma, Canva) with their respective SVG icons. I’ll also ensure the XAMPP icon displays correctly by using a reliable SVG source from the Devicon repository, as the previous source (`https://www.apachefriends.org/images/xampp-logo.svg`) may not be rendering properly on GitHub.
-
-Here’s the updated README with only the programming languages and design tools, using SVG icons:
-
-<xaiArtifact artifact_id="39bedba5-6b88-473d-bbca-fd262099aaa6" artifact_version_id="4b091bd0-70a0-4c79-b63f-0b61de086e26" title="README.md" contentType="text/markdown">
-
 # Hi there! 👋 My name is Fraol Admasu 
 
 ## Developer & Database Administrator
@@ -45,5 +39,3 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 </p>
 
 ---
-
-</xaiArtifact>
