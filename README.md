@@ -1,6 +1,12 @@
+To address your request, I’ll update the "Languages and Tools" section of your GitHub README to include only the programming languages and design tools from the provided list (HTML, CSS, JavaScript, WordPress, React, Tailwind, XAMPP, Microsoft SQL Server, MySQL, PHP, Python, Figma, Canva) with their respective SVG icons. I’ll also ensure the XAMPP icon displays correctly by using a reliable SVG source from the Devicon repository, as the previous source (`https://www.apachefriends.org/images/xampp-logo.svg`) may not be rendering properly on GitHub.
+
+Here’s the updated README with only the programming languages and design tools, using SVG icons:
+
+<xaiArtifact artifact_id="39bedba5-6b88-473d-bbca-fd262099aaa6" artifact_version_id="4b091bd0-70a0-4c79-b63f-0b61de086e26" title="README.md" contentType="text/markdown">
+
 # Hi there! 👋 My name is Fraol Admasu 
----
-## Developer & Database Adminstrator
+
+## Developer & Database Administrator
 
 Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated developer, always eager to learn and grow. Here's a little about me:
 
@@ -29,7 +35,7 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.apachefriends.org/images/xampp-logo.svg" alt="xampp" width="40" height="40"/> </a>
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="xampp" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -37,7 +43,7 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
 </p>
----
----
 
 ---
+
+</xaiArtifact>
