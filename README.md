@@ -22,5 +22,5 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 ### 📧 How to Reach Me:
 - **Email**: [FraolAdmasu.fadm94202@gmail.com](mailto:FraolAdmasu.fadm94202@gmail.com)
 - **LinkedIn**: [linkedin.com/in/fraol-admasu](https://www.linkedin.com/in/fraol-admasu)
-- **Portfolio**: [link]((https://fraol-admasu.netlify.app/))
+- **Portfolio**: [Fraol Amasu](https://fraol-admasu.netlify.app/)
 ---
