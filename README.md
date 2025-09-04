@@ -1,4 +1,6 @@
-## Hi there! 👋
+# Hi there! 👋 My name is Fraol Admasu 
+---
+## Developer & Database Adminstrator
 
 Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated developer, always eager to learn and grow. Here's a little about me:
 
