@@ -36,13 +36,8 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="word" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_access/microsoft_access-icon.svg" alt="access" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="powerpoint" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/visio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_visio/microsoft_visio-icon.svg" alt="visio" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-forms" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="forms" width="40" height="40"/> </a>
 </p>
-
+---
 ---
 
 ---
